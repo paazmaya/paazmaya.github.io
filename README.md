@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## paazmaya projects at GitHub
 
-You can use the [editor on GitHub](https://github.com/paazmaya/paazmaya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paazmaya/paazmaya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Project | CI service
+--------| ----------
+[`arduino-playground`](https://github.com/paazmaya/arduino-playground) | -
+[`chatanyara.js`](https://github.com/paazmaya/chatanyara.js) | -
+[`code-examples`](https://github.com/paazmaya/code-examples) | -
+[`creative-suite-to-qml`](https://github.com/paazmaya/creative-suite-to-qml) | -
+[`eslint-config-paazmaya`](https://github.com/paazmaya/eslint-config-paazmaya) | -
+[`espoo.kobujutsu.fi`](https://github.com/paazmaya/espoo.kobujutsu.fi) | -
+[`express-tozan-server`](https://github.com/paazmaya/express-tozan-server) | -
+[`grunt-hgactivity`](https://github.com/paazmaya/grunt-hgactivity) | -
+[`grunt-html2md`](https://github.com/paazmaya/grunt-html2md) | -
+[`grunt-image-profile`](https://github.com/paazmaya/grunt-image-profile) | -
+[`grunt-sakugawa`](https://github.com/paazmaya/grunt-sakugawa) | -
+[`grunt-sass2scss`](https://github.com/paazmaya/grunt-sass2scss) | -
+[`grunt-togeojson`](https://github.com/paazmaya/grunt-togeojson) | -
+[`grunt-trimtrailingspaces`](https://github.com/paazmaya/grunt-trimtrailingspaces) | -
+[`grunt-yaml-validator`](https://github.com/paazmaya/grunt-yaml-validator) | -
+[`gulp-sakugawa`](https://github.com/paazmaya/gulp-sakugawa) | -
+[`hamahiga`](https://github.com/paazmaya/hamahiga) | -
+[`hello-node-js`](https://github.com/paazmaya/hello-node-js) | -
+[`image-duplicate-remover`](https://github.com/paazmaya/image-duplicate-remover) | -
+[`image-flatify`](https://github.com/paazmaya/image-flatify) | -
+[`image-foldarizer`](https://github.com/paazmaya/image-foldarizer) | -
+[`kanigawa`](https://github.com/paazmaya/kanigawa) | -
+[`maezato`](https://github.com/paazmaya/maezato) | -
+[`matsumura-rohai`](https://github.com/paazmaya/matsumura-rohai) | -
+[`minimal85`](https://github.com/paazmaya/minimal85) | -
+[`Mobility-Information`](https://github.com/paazmaya/Mobility-Information) | -
+[`modern-web-tools-with-node-js-book`](https://github.com/paazmaya/modern-web-tools-with-node-js-book) | -
+[`naginata.fi`](https://github.com/paazmaya/naginata.fi) | -
+[`PaazioTools`](https://github.com/paazmaya/PaazioTools) | -
+[`paazmaya.github.io`](https://github.com/paazmaya/paazmaya.github.io) | -
+[`papervision3d`](https://github.com/paazmaya/papervision3d) | -
+[`react-based-interface-for-tozan`](https://github.com/paazmaya/react-based-interface-for-tozan) | -
+[`renshuu.paazmaya.fi`](https://github.com/paazmaya/renshuu.paazmaya.fi) | -
+[`sakugawa`](https://github.com/paazmaya/sakugawa) | -
+[`shigehachi`](https://github.com/paazmaya/shigehachi) | -
+[`shuji`](https://github.com/paazmaya/shuji) | -
+[`tarita`](https://github.com/paazmaya/tarita) | -
+[`tawata`](https://github.com/paazmaya/tawata) | -
+[`tozan`](https://github.com/paazmaya/tozan) | -
+[`WP-Member-Register`](https://github.com/paazmaya/WP-Member-Register) | -
+[`yaml-validator`](https://github.com/paazmaya/yaml-validator) | -
+[`yaraguwa`](https://github.com/paazmaya/yaraguwa) | -
