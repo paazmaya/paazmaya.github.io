@@ -44,3 +44,5 @@ Project | CI service | Code coverage | Unit test
 [`WP-Member-Register`](https://github.com/paazmaya/WP-Member-Register) | - | - | -
 [`yaml-validator`](https://github.com/paazmaya/yaml-validator) | [semaphoreci](https://semaphoreci.com/paazmaya/yaml-validator) | [codecov](https://codecov.io/gh/paazmaya/yaml-validator) | [`tape`](https://npmjs.org/package/tape)
 [`yaraguwa`](https://github.com/paazmaya/yaraguwa) | - | - | -
+
+Please note that in most cases the minimum supported version of [Node.js](https://nodejs.org/en/) is `6.9.5`, which is [the Long Term Support (LTS) version](https://github.com/nodejs/LTS#lts-schedule1).
