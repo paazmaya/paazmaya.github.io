@@ -1,24 +1,20 @@
-
 html {
   font-size: 100%;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 body {
   margin: 0;
   padding: 1em;
-  font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
   background: #252525;
 }
 
-
 h1 {
   font-size: 2em;
   color: #e8e8e8;
   margin: 0 0 10px;
-  font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.1;
 }
@@ -52,7 +48,6 @@ th {
   padding: 5px 10px;
   border-bottom: 1px solid #434343;
   color: #b6b6b6;
-  font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }
 
@@ -62,7 +57,8 @@ td {
   border-bottom: 1px solid #434343;
 }
 
-p, table {
+p,
+table {
   margin: 0 0 20px;
 }
 
@@ -76,14 +72,14 @@ a:focus {
   outline: thin dotted;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   outline: 0;
 }
 
 a:hover {
   color: #ffeb9b;
 }
-
 
 #title {
   border: 0;
