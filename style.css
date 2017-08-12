@@ -20,6 +20,7 @@ body {
   font-weight: normal;
   font-size: 100%;
   background-color: white;
+  min-width: 500px;
 }
 
 h1 {
@@ -54,7 +55,7 @@ table {
 
 th, td {
   padding: 0.3em 0.5em;
-  border-bottom: 1px solid #0e3a73;
+  border-bottom: 1px solid #020202;
 }
 
 th {
@@ -78,7 +79,6 @@ th:nth-child(5) {
 
 a {
   color: #0e3a73;
-  font-weight: 400;
   text-decoration: none;
 }
 
@@ -89,9 +89,11 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
+  text-decoration: underline;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: #1351a4;
 }
 
