@@ -79,7 +79,6 @@ th:nth-child(5) {
 
 a {
   color: #0e3a73;
-  text-decoration: none;
 }
 
 a:focus {
@@ -89,7 +88,7 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover,
